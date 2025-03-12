@@ -29,10 +29,6 @@
 ### 快速开始
 
 ```bash
-
-# 进入项目目录
-cd hot-search-board 
-
 # 安装依赖
 npm install
 
